@@ -1,5 +1,7 @@
 import React from 'react';
 
-const Dasboard: React.FC = () => <h1>Dashboard</h1>;
+import { Title } from './styles';
+
+const Dasboard: React.FC = () => <Title>Dashboard</Title>;
 
 export default Dasboard;

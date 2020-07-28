@@ -2,7 +2,7 @@ import React from 'react';
 
 const Repository: React.FC = () => (
   <h1>
-    Repository
+    Explore repositorios no Github
   </h1>
 );
 
